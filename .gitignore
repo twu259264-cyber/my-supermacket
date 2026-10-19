@@ -1,0 +1,11 @@
+# Local audit and source-material workspaces
+/audit/
+/source-materials/
+
+# Generated browser-test output
+test-results/
+playwright-report/
+
+# Local operating-system files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,2373 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-19T07:26:21.314Z",
+  "policy": {
+    "resize": "fit-inside-without-enlargement",
+    "sourcePreservation": "original source files remain outside assets/media",
+    "conceptDisclosure": "campus-concept images are promotional concepts, not product evidence"
+  },
+  "items": [
+    {
+      "id": "autumn-chest-detail",
+      "sourceLabel": "微信图片_20261014103640_198_5.png",
+      "role": "garment-chest-detail",
+      "season": "autumn",
+      "public": true,
+      "description": "秋装外套胸前校徽细节",
+      "sourceWidth": 1080,
+      "sourceHeight": 611,
+      "sourceFormat": "png",
+      "outputs": [
+        {
+          "path": "assets/media/products/autumn/autumn-chest-detail-480.webp",
+          "width": 480,
+          "height": 272,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/autumn/autumn-chest-detail-960.webp",
+          "width": 960,
+          "height": 543,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/autumn/autumn-chest-detail-1080.webp",
+          "width": 1080,
+          "height": 611,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "id": "autumn-collar",
+      "sourceLabel": "微信图片_20261014103636_194_5.png",
+      "role": "craft-detail",
+      "season": "autumn",
+      "public": true,
+      "description": "秋装外套领口细节",
+      "sourceWidth": 1080,
+      "sourceHeight": 611,
+      "sourceFormat": "png",
+      "outputs": [
+        {
+          "path": "assets/media/products/autumn/autumn-collar-480.webp",
+          "width": 480,
+          "height": 272,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/autumn/autumn-collar-960.webp",
+          "width": 960,
+          "height": 543,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/autumn/autumn-collar-1080.webp",
+          "width": 1080,
+          "height": 611,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "id": "autumn-cuff",
+      "sourceLabel": "微信图片_20261014103641_199_5.png",
+      "role": "craft-detail",
+      "season": "autumn",
+      "public": true,
+      "description": "秋装外套袖口细节",
+      "sourceWidth": 697,
+      "sourceHeight": 479,
+      "sourceFormat": "png",
+      "outputs": [
+        {
+          "path": "assets/media/products/autumn/autumn-cuff-480.webp",
+          "width": 480,
+          "height": 330,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/autumn/autumn-cuff-697.webp",
+          "width": 697,
+          "height": 479,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "id": "autumn-fabric",
+      "sourceLabel": "微信图片_20261014103643_201_5.png",
+      "role": "craft-detail",
+      "season": "autumn",
+      "public": true,
+      "description": "秋装外套面料细节",
+      "sourceWidth": 1080,
+      "sourceHeight": 522,
+      "sourceFormat": "png",
+      "outputs": [
+        {
+          "path": "assets/media/products/autumn/autumn-fabric-480.webp",
+          "width": 480,
+          "height": 232,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/autumn/autumn-fabric-960.webp",
+          "width": 960,
+          "height": 464,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/autumn/autumn-fabric-1080.webp",
+          "width": 1080,
+          "height": 522,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "id": "autumn-hem",
+      "sourceLabel": "微信图片_20261014103645_203_5.png",
+      "role": "craft-detail",
+      "season": "autumn",
+      "public": true,
+      "description": "秋装外套下摆细节",
+      "sourceWidth": 841,
+      "sourceHeight": 510,
+      "sourceFormat": "png",
+      "outputs": [
+        {
+          "path": "assets/media/products/autumn/autumn-hem-480.webp",
+          "width": 480,
+          "height": 291,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/autumn/autumn-hem-841.webp",
+          "width": 841,
+          "height": 510,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "id": "autumn-inside",
+      "sourceLabel": "微信图片_20261014103644_202_5.png",
+      "role": "craft-detail",
+      "season": "autumn",
+      "public": true,
+      "description": "秋装外套内侧细节",
+      "sourceWidth": 1080,
+      "sourceHeight": 611,
+      "sourceFormat": "png",
+      "outputs": [
+        {
+          "path": "assets/media/products/autumn/autumn-inside-480.webp",
+          "width": 480,
+          "height": 272,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/autumn/autumn-inside-960.webp",
+          "width": 960,
+          "height": 543,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/autumn/autumn-inside-1080.webp",
+          "width": 1080,
+          "height": 611,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "id": "autumn-jacket-back",
+      "sourceLabel": "微信图片_20261014103633_191_5.png",
+      "role": "product-complete",
+      "season": "autumn",
+      "public": true,
+      "description": "秋装外套背面完整图",
+      "sourceWidth": 1080,
+      "sourceHeight": 1285,
+      "sourceFormat": "png",
+      "outputs": [
+        {
+          "path": "assets/media/products/autumn/autumn-jacket-back-480.webp",
+          "width": 480,
+          "height": 571,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/autumn/autumn-jacket-back-960.webp",
+          "width": 960,
+          "height": 1142,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/autumn/autumn-jacket-back-1080.webp",
+          "width": 1080,
+          "height": 1285,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "id": "autumn-jacket-back-alt",
+      "sourceLabel": "微信图片_20261014103634_192_5.png",
+      "role": "product-complete",
+      "season": "autumn",
+      "public": true,
+      "description": "秋装外套背面完整图（备选）",
+      "sourceWidth": 2167,
+      "sourceHeight": 1293,
+      "sourceFormat": "png",
+      "outputs": [
+        {
+          "path": "assets/media/products/autumn/autumn-jacket-back-alt-480.webp",
+          "width": 480,
+          "height": 286,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/autumn/autumn-jacket-back-alt-960.webp",
+          "width": 960,
+          "height": 573,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/autumn/autumn-jacket-back-alt-1600.webp",
+          "width": 1600,
+          "height": 955,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "id": "autumn-jacket-front",
+      "sourceLabel": "微信图片_20261014103635_193_5.png",
+      "role": "product-complete",
+      "season": "autumn",
+      "public": true,
+      "description": "秋装外套正面完整图",
+      "sourceWidth": 883,
+      "sourceHeight": 819,
+      "sourceFormat": "png",
+      "outputs": [
+        {
+          "path": "assets/media/products/autumn/autumn-jacket-front-480.webp",
+          "width": 480,
+          "height": 445,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/autumn/autumn-jacket-front-883.webp",
+          "width": 883,
+          "height": 819,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "id": "autumn-jacket-front-alt",
+      "sourceLabel": "微信图片_20261014103649_208_5.png",
+      "role": "product-complete",
+      "season": "autumn",
+      "public": true,
+      "description": "秋装外套正面完整图（补充）",
+      "sourceWidth": 2072,
+      "sourceHeight": 1040,
+      "sourceFormat": "png",
+      "outputs": [
+        {
+          "path": "assets/media/products/autumn/autumn-jacket-front-alt-480.webp",
+          "width": 480,
+          "height": 241,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/autumn/autumn-jacket-front-alt-960.webp",
+          "width": 960,
+          "height": 482,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/autumn/autumn-jacket-front-alt-1600.webp",
+          "width": 1600,
+          "height": 803,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "id": "autumn-label",
+      "sourceLabel": "微信图片_20261014103647_205_5.png",
+      "role": "craft-detail",
+      "season": "autumn",
+      "public": true,
+      "description": "秋装外套标识细节",
+      "sourceWidth": 1009,
+      "sourceHeight": 611,
+      "sourceFormat": "png",
+      "outputs": [
+        {
+          "path": "assets/media/products/autumn/autumn-label-480.webp",
+          "width": 480,
+          "height": 291,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/autumn/autumn-label-960.webp",
+          "width": 960,
+          "height": 581,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/autumn/autumn-label-1009.webp",
+          "width": 1009,
+          "height": 611,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "id": "autumn-pocket",
+      "sourceLabel": "微信图片_20261014103637_195_5.png",
+      "role": "craft-detail",
+      "season": "autumn",
+      "public": true,
+      "description": "秋装外套口袋细节",
+      "sourceWidth": 1080,
+      "sourceHeight": 611,
+      "sourceFormat": "png",
+      "outputs": [
+        {
+          "path": "assets/media/products/autumn/autumn-pocket-480.webp",
+          "width": 480,
+          "height": 272,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/autumn/autumn-pocket-960.webp",
+          "width": 960,
+          "height": 543,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/autumn/autumn-pocket-1080.webp",
+          "width": 1080,
+          "height": 611,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "id": "autumn-seam",
+      "sourceLabel": "微信图片_20261014103646_204_5.png",
+      "role": "craft-detail",
+      "season": "autumn",
+      "public": true,
+      "description": "秋装外套走线细节",
+      "sourceWidth": 1080,
+      "sourceHeight": 611,
+      "sourceFormat": "png",
+      "outputs": [
+        {
+          "path": "assets/media/products/autumn/autumn-seam-480.webp",
+          "width": 480,
+          "height": 272,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/autumn/autumn-seam-960.webp",
+          "width": 960,
+          "height": 543,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/autumn/autumn-seam-1080.webp",
+          "width": 1080,
+          "height": 611,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "id": "autumn-shoulder",
+      "sourceLabel": "微信图片_20261014103638_196_5.png",
+      "role": "craft-detail",
+      "season": "autumn",
+      "public": true,
+      "description": "秋装外套肩部拼接",
+      "sourceWidth": 1080,
+      "sourceHeight": 611,
+      "sourceFormat": "png",
+      "outputs": [
+        {
+          "path": "assets/media/products/autumn/autumn-shoulder-480.webp",
+          "width": 480,
+          "height": 272,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/autumn/autumn-shoulder-960.webp",
+          "width": 960,
+          "height": 543,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/autumn/autumn-shoulder-1080.webp",
+          "width": 1080,
+          "height": 611,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "id": "autumn-side",
+      "sourceLabel": "微信图片_20261014103642_200_5.png",
+      "role": "craft-detail",
+      "season": "autumn",
+      "public": true,
+      "description": "秋装外套侧身拼接",
+      "sourceWidth": 1080,
+      "sourceHeight": 611,
+      "sourceFormat": "png",
+      "outputs": [
+        {
+          "path": "assets/media/products/autumn/autumn-side-480.webp",
+          "width": 480,
+          "height": 272,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/autumn/autumn-side-960.webp",
+          "width": 960,
+          "height": 543,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/autumn/autumn-side-1080.webp",
+          "width": 1080,
+          "height": 611,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "id": "autumn-zipper",
+      "sourceLabel": "微信图片_20261014103639_197_5.png",
+      "role": "craft-detail",
+      "season": "autumn",
+      "public": true,
+      "description": "秋装外套拉链细节",
+      "sourceWidth": 1080,
+      "sourceHeight": 611,
+      "sourceFormat": "png",
+      "outputs": [
+        {
+          "path": "assets/media/products/autumn/autumn-zipper-480.webp",
+          "width": 480,
+          "height": 272,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/autumn/autumn-zipper-960.webp",
+          "width": 960,
+          "height": 543,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/autumn/autumn-zipper-1080.webp",
+          "width": 1080,
+          "height": 611,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "id": "brand-logo-horizontal",
+      "sourceLabel": "image-03.svg",
+      "role": "brand-logo",
+      "season": "brand",
+      "public": true,
+      "description": "启星程品牌 Logo",
+      "sourceWidth": 1000,
+      "sourceHeight": 226,
+      "sourceFormat": "svg",
+      "embeddedFormat": "png",
+      "outputs": [
+        {
+          "path": "assets/media/brand/brand-logo-horizontal.png",
+          "width": 1000,
+          "height": 226,
+          "format": "png"
+        }
+      ]
+    },
+    {
+      "id": "brand-mark-square",
+      "sourceLabel": "image-01.svg",
+      "role": "brand-logo",
+      "season": "brand",
+      "public": false,
+      "description": "旧版方形品牌图",
+      "sourceWidth": 544,
+      "sourceHeight": 621,
+      "sourceFormat": "svg",
+      "embeddedFormat": "png",
+      "outputs": [
+        {
+          "path": "assets/media/brand/brand-mark-square.png",
+          "width": 544,
+          "height": 621,
+          "format": "png"
+        }
+      ]
+    },
+    {
+      "id": "campus-editorial-01",
+      "sourceLabel": "image-17.svg",
+      "role": "campus-concept",
+      "season": "campus",
+      "public": true,
+      "description": "晨光校园概念图",
+      "sourceWidth": 530,
+      "sourceHeight": 765,
+      "sourceFormat": "svg",
+      "embeddedFormat": "webp",
+      "outputs": [
+        {
+          "path": "assets/media/campus/campus-editorial-01-530.webp",
+          "width": 530,
+          "height": 765,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "id": "campus-editorial-02",
+      "sourceLabel": "image-18.svg",
+      "role": "campus-concept",
+      "season": "campus",
+      "public": true,
+      "description": "课间校园概念图",
+      "sourceWidth": 545,
+      "sourceHeight": 780,
+      "sourceFormat": "svg",
+      "embeddedFormat": "webp",
+      "outputs": [
+        {
+          "path": "assets/media/campus/campus-editorial-02-545.webp",
+          "width": 545,
+          "height": 780,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "id": "campus-editorial-03",
+      "sourceLabel": "image-19.svg",
+      "role": "campus-concept",
+      "season": "campus",
+      "public": true,
+      "description": "放学校园概念图",
+      "sourceWidth": 535,
+      "sourceHeight": 715,
+      "sourceFormat": "svg",
+      "embeddedFormat": "webp",
+      "outputs": [
+        {
+          "path": "assets/media/campus/campus-editorial-03-535.webp",
+          "width": 535,
+          "height": 715,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "id": "campus-hero",
+      "sourceLabel": "image-02.svg",
+      "role": "campus-concept",
+      "season": "campus",
+      "public": true,
+      "description": "校园人物首屏概念图",
+      "sourceWidth": 1476,
+      "sourceHeight": 800,
+      "sourceFormat": "svg",
+      "embeddedFormat": "webp",
+      "outputs": [
+        {
+          "path": "assets/media/campus/campus-hero-768.webp",
+          "width": 768,
+          "height": 416,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/campus/campus-hero-1280.webp",
+          "width": 1280,
+          "height": 694,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/campus/campus-hero-1476.webp",
+          "width": 1476,
+          "height": 800,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "id": "campus-lookbook-01",
+      "sourceLabel": "image-04.svg",
+      "role": "campus-concept",
+      "season": "campus",
+      "public": true,
+      "description": "校园阶梯概念图",
+      "sourceWidth": 1425,
+      "sourceHeight": 720,
+      "sourceFormat": "svg",
+      "embeddedFormat": "webp",
+      "outputs": [
+        {
+          "path": "assets/media/campus/campus-lookbook-01-768.webp",
+          "width": 768,
+          "height": 388,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/campus/campus-lookbook-01-1280.webp",
+          "width": 1280,
+          "height": 647,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/campus/campus-lookbook-01-1425.webp",
+          "width": 1425,
+          "height": 720,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "id": "campus-lookbook-02",
+      "sourceLabel": "image-05.svg",
+      "role": "campus-concept",
+      "season": "campus",
+      "public": true,
+      "description": "冬季校园海报",
+      "sourceWidth": 1024,
+      "sourceHeight": 1536,
+      "sourceFormat": "svg",
+      "embeddedFormat": "webp",
+      "outputs": [
+        {
+          "path": "assets/media/campus/campus-lookbook-02-768.webp",
+          "width": 768,
+          "height": 1152,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/campus/campus-lookbook-02-1024.webp",
+          "width": 1024,
+          "height": 1536,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "id": "campus-lookbook-03",
+      "sourceLabel": "image-06.svg",
+      "role": "campus-concept",
+      "season": "campus",
+      "public": true,
+      "description": "雨后校园海报",
+      "sourceWidth": 1024,
+      "sourceHeight": 1536,
+      "sourceFormat": "svg",
+      "embeddedFormat": "webp",
+      "outputs": [
+        {
+          "path": "assets/media/campus/campus-lookbook-03-768.webp",
+          "width": 768,
+          "height": 1152,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/campus/campus-lookbook-03-1024.webp",
+          "width": 1024,
+          "height": 1536,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "id": "campus-lookbook-04",
+      "sourceLabel": "image-07.svg",
+      "role": "campus-concept",
+      "season": "campus",
+      "public": true,
+      "description": "校园新风尚海报",
+      "sourceWidth": 1024,
+      "sourceHeight": 1536,
+      "sourceFormat": "svg",
+      "embeddedFormat": "webp",
+      "outputs": [
+        {
+          "path": "assets/media/campus/campus-lookbook-04-768.webp",
+          "width": 768,
+          "height": 1152,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/campus/campus-lookbook-04-1024.webp",
+          "width": 1024,
+          "height": 1536,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "id": "campus-lookbook-05",
+      "sourceLabel": "image-08.svg",
+      "role": "campus-concept",
+      "season": "campus",
+      "public": true,
+      "description": "篮球场校园海报",
+      "sourceWidth": 1024,
+      "sourceHeight": 1536,
+      "sourceFormat": "svg",
+      "embeddedFormat": "webp",
+      "outputs": [
+        {
+          "path": "assets/media/campus/campus-lookbook-05-768.webp",
+          "width": 768,
+          "height": 1152,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/campus/campus-lookbook-05-1024.webp",
+          "width": 1024,
+          "height": 1536,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "id": "campus-lookbook-06",
+      "sourceLabel": "image-09.svg",
+      "role": "campus-concept",
+      "season": "campus",
+      "public": true,
+      "description": "图书馆校园海报",
+      "sourceWidth": 1024,
+      "sourceHeight": 1536,
+      "sourceFormat": "svg",
+      "embeddedFormat": "webp",
+      "outputs": [
+        {
+          "path": "assets/media/campus/campus-lookbook-06-768.webp",
+          "width": 768,
+          "height": 1152,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/campus/campus-lookbook-06-1024.webp",
+          "width": 1024,
+          "height": 1536,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "id": "campus-lookbook-07",
+      "sourceLabel": "image-10.svg",
+      "role": "campus-concept",
+      "season": "campus",
+      "public": true,
+      "description": "横版品牌校园海报",
+      "sourceWidth": 1400,
+      "sourceHeight": 1050,
+      "sourceFormat": "svg",
+      "embeddedFormat": "webp",
+      "outputs": [
+        {
+          "path": "assets/media/campus/campus-lookbook-07-768.webp",
+          "width": 768,
+          "height": 576,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/campus/campus-lookbook-07-1280.webp",
+          "width": 1280,
+          "height": 960,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/campus/campus-lookbook-07-1400.webp",
+          "width": 1400,
+          "height": 1050,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "id": "contact-wechat-qr",
+      "sourceLabel": "wechat-qr.jpg",
+      "role": "contact-qr",
+      "season": "contact",
+      "public": true,
+      "description": "对外联系微信二维码",
+      "sourceWidth": 888,
+      "sourceHeight": 1131,
+      "sourceFormat": "jpeg",
+      "outputs": [
+        {
+          "path": "assets/media/contact/contact-wechat-qr.jpg",
+          "width": 888,
+          "height": 1131,
+          "format": "jpeg",
+          "kind": "original"
+        }
+      ]
+    },
+    {
+      "id": "legacy-chest-detail",
+      "sourceLabel": "image-15.svg",
+      "role": "legacy-detail",
+      "season": "legacy",
+      "public": false,
+      "description": "V3 胸前图案低分辨率图",
+      "sourceWidth": 265,
+      "sourceHeight": 245,
+      "sourceFormat": "svg",
+      "embeddedFormat": "webp",
+      "outputs": [
+        {
+          "path": "assets/media/audit/legacy-chest-detail-265.webp",
+          "width": 265,
+          "height": 245,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "id": "legacy-pants-detail",
+      "sourceLabel": "image-16.svg",
+      "role": "legacy-detail",
+      "season": "legacy",
+      "public": false,
+      "description": "V3 长裤侧条细节图",
+      "sourceWidth": 250,
+      "sourceHeight": 648,
+      "sourceFormat": "svg",
+      "embeddedFormat": "webp",
+      "outputs": [
+        {
+          "path": "assets/media/audit/legacy-pants-detail-250.webp",
+          "width": 250,
+          "height": 648,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "id": "legacy-polo-detail",
+      "sourceLabel": "image-24.svg",
+      "role": "legacy-detail",
+      "season": "legacy",
+      "public": false,
+      "description": "V3 Polo 低分辨率细节图",
+      "sourceWidth": 227,
+      "sourceHeight": 270,
+      "sourceFormat": "svg",
+      "embeddedFormat": "webp",
+      "outputs": [
+        {
+          "path": "assets/media/audit/legacy-polo-detail-227.webp",
+          "width": 227,
+          "height": 270,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "id": "legacy-polo-front",
+      "sourceLabel": "image-23.svg",
+      "role": "legacy-product",
+      "season": "legacy",
+      "public": false,
+      "description": "V3 Polo 产品图",
+      "sourceWidth": 1005,
+      "sourceHeight": 920,
+      "sourceFormat": "svg",
+      "embeddedFormat": "webp",
+      "outputs": [
+        {
+          "path": "assets/media/audit/legacy-polo-front-480.webp",
+          "width": 480,
+          "height": 439,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/audit/legacy-polo-front-960.webp",
+          "width": 960,
+          "height": 879,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/audit/legacy-polo-front-1005.webp",
+          "width": 1005,
+          "height": 920,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "id": "legacy-shell-back",
+      "sourceLabel": "image-21.svg",
+      "role": "legacy-detail",
+      "season": "legacy",
+      "public": false,
+      "description": "V3 冲锋衣背面图",
+      "sourceWidth": 348,
+      "sourceHeight": 255,
+      "sourceFormat": "svg",
+      "embeddedFormat": "webp",
+      "outputs": [
+        {
+          "path": "assets/media/audit/legacy-shell-back-348.webp",
+          "width": 348,
+          "height": 255,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "id": "legacy-shell-detail",
+      "sourceLabel": "image-14.svg",
+      "role": "legacy-detail",
+      "season": "legacy",
+      "public": false,
+      "description": "V3 外套拼色细节图",
+      "sourceWidth": 420,
+      "sourceHeight": 345,
+      "sourceFormat": "svg",
+      "embeddedFormat": "webp",
+      "outputs": [
+        {
+          "path": "assets/media/audit/legacy-shell-detail-420.webp",
+          "width": 420,
+          "height": 345,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "id": "legacy-shell-front",
+      "sourceLabel": "image-20.svg",
+      "role": "legacy-product",
+      "season": "legacy",
+      "public": false,
+      "description": "V3 冲锋衣产品图",
+      "sourceWidth": 1536,
+      "sourceHeight": 1126,
+      "sourceFormat": "svg",
+      "embeddedFormat": "webp",
+      "outputs": [
+        {
+          "path": "assets/media/audit/legacy-shell-front-480.webp",
+          "width": 480,
+          "height": 352,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/audit/legacy-shell-front-960.webp",
+          "width": 960,
+          "height": 704,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/audit/legacy-shell-front-1440.webp",
+          "width": 1440,
+          "height": 1056,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "id": "legacy-shell-zip",
+      "sourceLabel": "image-22.svg",
+      "role": "legacy-detail",
+      "season": "legacy",
+      "public": false,
+      "description": "V3 冲锋衣拉链低分辨率图",
+      "sourceWidth": 230,
+      "sourceHeight": 279,
+      "sourceFormat": "svg",
+      "embeddedFormat": "webp",
+      "outputs": [
+        {
+          "path": "assets/media/audit/legacy-shell-zip-230.webp",
+          "width": 230,
+          "height": 279,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "id": "legacy-track-jacket",
+      "sourceLabel": "image-11.svg",
+      "role": "legacy-product",
+      "season": "legacy",
+      "public": false,
+      "description": "V3 运动夹克产品图",
+      "sourceWidth": 883,
+      "sourceHeight": 819,
+      "sourceFormat": "svg",
+      "embeddedFormat": "webp",
+      "outputs": [
+        {
+          "path": "assets/media/audit/legacy-track-jacket-480.webp",
+          "width": 480,
+          "height": 445,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/audit/legacy-track-jacket-883.webp",
+          "width": 883,
+          "height": 819,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "id": "legacy-track-pants",
+      "sourceLabel": "image-12.svg",
+      "role": "legacy-product",
+      "season": "legacy",
+      "public": false,
+      "description": "V3 运动长裤产品图",
+      "sourceWidth": 720,
+      "sourceHeight": 1305,
+      "sourceFormat": "svg",
+      "embeddedFormat": "webp",
+      "outputs": [
+        {
+          "path": "assets/media/audit/legacy-track-pants-480.webp",
+          "width": 480,
+          "height": 870,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/audit/legacy-track-pants-720.webp",
+          "width": 720,
+          "height": 1305,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "id": "legacy-track-zip",
+      "sourceLabel": "image-13.svg",
+      "role": "legacy-detail",
+      "season": "legacy",
+      "public": false,
+      "description": "V3 拉链细节低分辨率图",
+      "sourceWidth": 185,
+      "sourceHeight": 375,
+      "sourceFormat": "svg",
+      "embeddedFormat": "webp",
+      "outputs": [
+        {
+          "path": "assets/media/audit/legacy-track-zip-185.webp",
+          "width": 185,
+          "height": 375,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "id": "size-autumn-original",
+      "sourceLabel": "size-autumn.jpg",
+      "role": "size-original",
+      "season": "autumn",
+      "public": true,
+      "description": "秋装尺码表原图",
+      "sourceWidth": 1284,
+      "sourceHeight": 873,
+      "sourceFormat": "jpeg",
+      "outputs": [
+        {
+          "path": "assets/media/size/size-autumn-original.jpg",
+          "width": 1284,
+          "height": 873,
+          "format": "jpeg",
+          "kind": "original"
+        }
+      ]
+    },
+    {
+      "id": "size-summer-original",
+      "sourceLabel": "size-summer.jpg",
+      "role": "size-original",
+      "season": "summer",
+      "public": true,
+      "description": "夏装尺码表原图",
+      "sourceWidth": 1284,
+      "sourceHeight": 918,
+      "sourceFormat": "jpeg",
+      "outputs": [
+        {
+          "path": "assets/media/size/size-summer-original.jpg",
+          "width": 1284,
+          "height": 918,
+          "format": "jpeg",
+          "kind": "original"
+        }
+      ]
+    },
+    {
+      "id": "size-winter-original",
+      "sourceLabel": "size-winter.jpg",
+      "role": "size-original",
+      "season": "winter",
+      "public": true,
+      "description": "冬装尺码表原图",
+      "sourceWidth": 1284,
+      "sourceHeight": 987,
+      "sourceFormat": "jpeg",
+      "outputs": [
+        {
+          "path": "assets/media/size/size-winter-original.jpg",
+          "width": 1284,
+          "height": 987,
+          "format": "jpeg",
+          "kind": "original"
+        }
+      ]
+    },
+    {
+      "id": "summer-chest-detail",
+      "sourceLabel": "微信图片_20261014103706_225_5.png",
+      "role": "garment-chest-detail",
+      "season": "summer",
+      "public": true,
+      "description": "夏装胸前校徽细节",
+      "sourceWidth": 1164,
+      "sourceHeight": 619,
+      "sourceFormat": "png",
+      "outputs": [
+        {
+          "path": "assets/media/products/summer/summer-chest-detail-480.webp",
+          "width": 480,
+          "height": 255,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/summer/summer-chest-detail-960.webp",
+          "width": 960,
+          "height": 511,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/summer/summer-chest-detail-1164.webp",
+          "width": 1164,
+          "height": 619,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "id": "summer-collar-detail",
+      "sourceLabel": "微信图片_20261014103704_223_5.png",
+      "role": "craft-detail",
+      "season": "summer",
+      "public": true,
+      "description": "夏装翻领细节",
+      "sourceWidth": 1283,
+      "sourceHeight": 726,
+      "sourceFormat": "png",
+      "outputs": [
+        {
+          "path": "assets/media/products/summer/summer-collar-detail-480.webp",
+          "width": 480,
+          "height": 272,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/summer/summer-collar-detail-960.webp",
+          "width": 960,
+          "height": 543,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/summer/summer-collar-detail-1283.webp",
+          "width": 1283,
+          "height": 726,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "id": "summer-fabric-detail",
+      "sourceLabel": "微信图片_20261014103710_229_5.png",
+      "role": "craft-detail",
+      "season": "summer",
+      "public": true,
+      "description": "夏装面料细节",
+      "sourceWidth": 1283,
+      "sourceHeight": 726,
+      "sourceFormat": "png",
+      "outputs": [
+        {
+          "path": "assets/media/products/summer/summer-fabric-detail-480.webp",
+          "width": 480,
+          "height": 272,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/summer/summer-fabric-detail-960.webp",
+          "width": 960,
+          "height": 543,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/summer/summer-fabric-detail-1283.webp",
+          "width": 1283,
+          "height": 726,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "id": "summer-placket-detail",
+      "sourceLabel": "微信图片_20261014103705_224_5.png",
+      "role": "craft-detail",
+      "season": "summer",
+      "public": true,
+      "description": "夏装门襟细节",
+      "sourceWidth": 1283,
+      "sourceHeight": 726,
+      "sourceFormat": "png",
+      "outputs": [
+        {
+          "path": "assets/media/products/summer/summer-placket-detail-480.webp",
+          "width": 480,
+          "height": 272,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/summer/summer-placket-detail-960.webp",
+          "width": 960,
+          "height": 543,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/summer/summer-placket-detail-1283.webp",
+          "width": 1283,
+          "height": 726,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "id": "summer-polo",
+      "sourceLabel": "微信图片_20261014103651_210_5.png",
+      "role": "product-complete",
+      "season": "summer",
+      "public": true,
+      "description": "夏装 Polo 正面完整图",
+      "sourceWidth": 1080,
+      "sourceHeight": 1520,
+      "sourceFormat": "png",
+      "outputs": [
+        {
+          "path": "assets/media/products/summer/summer-polo-480.webp",
+          "width": 480,
+          "height": 676,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/summer/summer-polo-960.webp",
+          "width": 960,
+          "height": 1351,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/summer/summer-polo-1080.webp",
+          "width": 1080,
+          "height": 1520,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "id": "summer-polo-back",
+      "sourceLabel": "微信图片_20261014103648_206_5.png",
+      "role": "product-complete",
+      "season": "summer",
+      "public": true,
+      "description": "夏装 Polo 背面完整图",
+      "sourceWidth": 1080,
+      "sourceHeight": 1520,
+      "sourceFormat": "png",
+      "outputs": [
+        {
+          "path": "assets/media/products/summer/summer-polo-back-480.webp",
+          "width": 480,
+          "height": 676,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/summer/summer-polo-back-960.webp",
+          "width": 960,
+          "height": 1351,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/summer/summer-polo-back-1080.webp",
+          "width": 1080,
+          "height": 1520,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "id": "summer-polo-front-alt",
+      "sourceLabel": "微信图片_20261014103650_209_5.png",
+      "role": "product-complete",
+      "season": "summer",
+      "public": true,
+      "description": "夏装 Polo 正面完整图（备选）",
+      "sourceWidth": 1080,
+      "sourceHeight": 611,
+      "sourceFormat": "png",
+      "outputs": [
+        {
+          "path": "assets/media/products/summer/summer-polo-front-alt-480.webp",
+          "width": 480,
+          "height": 272,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/summer/summer-polo-front-alt-960.webp",
+          "width": 960,
+          "height": 543,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/summer/summer-polo-front-alt-1080.webp",
+          "width": 1080,
+          "height": 611,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "id": "summer-polo-long-sleeve",
+      "sourceLabel": "微信图片_20261014103657_216_5.png",
+      "role": "product-complete",
+      "season": "summer",
+      "public": true,
+      "description": "夏装长袖 Polo 正面完整图",
+      "sourceWidth": 1080,
+      "sourceHeight": 1520,
+      "sourceFormat": "png",
+      "outputs": [
+        {
+          "path": "assets/media/products/summer/summer-polo-long-sleeve-480.webp",
+          "width": 480,
+          "height": 676,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/summer/summer-polo-long-sleeve-960.webp",
+          "width": 960,
+          "height": 1351,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/summer/summer-polo-long-sleeve-1080.webp",
+          "width": 1080,
+          "height": 1520,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "id": "summer-polo-side",
+      "sourceLabel": "微信图片_20261014103648_207_5.png",
+      "role": "product-complete",
+      "season": "summer",
+      "public": true,
+      "description": "夏装 Polo 侧面完整图",
+      "sourceWidth": 1080,
+      "sourceHeight": 1520,
+      "sourceFormat": "png",
+      "outputs": [
+        {
+          "path": "assets/media/products/summer/summer-polo-side-480.webp",
+          "width": 480,
+          "height": 676,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/summer/summer-polo-side-960.webp",
+          "width": 960,
+          "height": 1351,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/summer/summer-polo-side-1080.webp",
+          "width": 1080,
+          "height": 1520,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "id": "summer-seam-detail",
+      "sourceLabel": "微信图片_20261014103707_226_5.png",
+      "role": "craft-detail",
+      "season": "summer",
+      "public": true,
+      "description": "夏装走线细节",
+      "sourceWidth": 1283,
+      "sourceHeight": 726,
+      "sourceFormat": "png",
+      "outputs": [
+        {
+          "path": "assets/media/products/summer/summer-seam-detail-480.webp",
+          "width": 480,
+          "height": 272,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/summer/summer-seam-detail-960.webp",
+          "width": 960,
+          "height": 543,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/summer/summer-seam-detail-1283.webp",
+          "width": 1283,
+          "height": 726,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "id": "summer-set-shorts",
+      "sourceLabel": "微信图片_20261014103652_211_5.png",
+      "role": "product-complete",
+      "season": "summer",
+      "public": true,
+      "description": "夏装 Polo 与短裤整套图",
+      "sourceWidth": 729,
+      "sourceHeight": 1172,
+      "sourceFormat": "png",
+      "outputs": [
+        {
+          "path": "assets/media/products/summer/summer-set-shorts-480.webp",
+          "width": 480,
+          "height": 772,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/summer/summer-set-shorts-729.webp",
+          "width": 729,
+          "height": 1172,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "id": "summer-set-trousers",
+      "sourceLabel": "微信图片_20261014103702_221_5.png",
+      "role": "product-complete",
+      "season": "summer",
+      "public": true,
+      "description": "夏装 Polo 与长裤整套图",
+      "sourceWidth": 1080,
+      "sourceHeight": 1520,
+      "sourceFormat": "png",
+      "outputs": [
+        {
+          "path": "assets/media/products/summer/summer-set-trousers-480.webp",
+          "width": 480,
+          "height": 676,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/summer/summer-set-trousers-960.webp",
+          "width": 960,
+          "height": 1351,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/summer/summer-set-trousers-1080.webp",
+          "width": 1080,
+          "height": 1520,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "id": "summer-shirt-detail",
+      "sourceLabel": "微信图片_20261014103653_212_5.png",
+      "role": "craft-detail",
+      "season": "summer",
+      "public": true,
+      "description": "夏装上衣细节",
+      "sourceWidth": 1164,
+      "sourceHeight": 619,
+      "sourceFormat": "png",
+      "outputs": [
+        {
+          "path": "assets/media/products/summer/summer-shirt-detail-480.webp",
+          "width": 480,
+          "height": 255,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/summer/summer-shirt-detail-960.webp",
+          "width": 960,
+          "height": 511,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/summer/summer-shirt-detail-1164.webp",
+          "width": 1164,
+          "height": 619,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "id": "summer-shorts",
+      "sourceLabel": "微信图片_20261014103701_220_5.png",
+      "role": "product-complete",
+      "season": "summer",
+      "public": true,
+      "description": "夏装短裤正面完整图",
+      "sourceWidth": 1080,
+      "sourceHeight": 1520,
+      "sourceFormat": "png",
+      "outputs": [
+        {
+          "path": "assets/media/products/summer/summer-shorts-480.webp",
+          "width": 480,
+          "height": 676,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/summer/summer-shorts-960.webp",
+          "width": 960,
+          "height": 1351,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/summer/summer-shorts-1080.webp",
+          "width": 1080,
+          "height": 1520,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "id": "summer-shorts-back",
+      "sourceLabel": "微信图片_20261014103659_218_5.png",
+      "role": "product-complete",
+      "season": "summer",
+      "public": true,
+      "description": "夏装短裤背面完整图",
+      "sourceWidth": 1080,
+      "sourceHeight": 1520,
+      "sourceFormat": "png",
+      "outputs": [
+        {
+          "path": "assets/media/products/summer/summer-shorts-back-480.webp",
+          "width": 480,
+          "height": 676,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/summer/summer-shorts-back-960.webp",
+          "width": 960,
+          "height": 1351,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/summer/summer-shorts-back-1080.webp",
+          "width": 1080,
+          "height": 1520,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "id": "summer-shorts-pocket",
+      "sourceLabel": "微信图片_20261014103709_228_5.png",
+      "role": "craft-detail",
+      "season": "summer",
+      "public": true,
+      "description": "夏装短裤口袋细节",
+      "sourceWidth": 1283,
+      "sourceHeight": 726,
+      "sourceFormat": "png",
+      "outputs": [
+        {
+          "path": "assets/media/products/summer/summer-shorts-pocket-480.webp",
+          "width": 480,
+          "height": 272,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/summer/summer-shorts-pocket-960.webp",
+          "width": 960,
+          "height": 543,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/summer/summer-shorts-pocket-1283.webp",
+          "width": 1283,
+          "height": 726,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "id": "summer-shorts-side",
+      "sourceLabel": "微信图片_20261014103700_219_5.png",
+      "role": "product-complete",
+      "season": "summer",
+      "public": true,
+      "description": "夏装短裤侧面完整图",
+      "sourceWidth": 1080,
+      "sourceHeight": 1520,
+      "sourceFormat": "png",
+      "outputs": [
+        {
+          "path": "assets/media/products/summer/summer-shorts-side-480.webp",
+          "width": 480,
+          "height": 676,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/summer/summer-shorts-side-960.webp",
+          "width": 960,
+          "height": 1351,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/summer/summer-shorts-side-1080.webp",
+          "width": 1080,
+          "height": 1520,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "id": "summer-sleeve-detail",
+      "sourceLabel": "微信图片_20261014103703_222_5.png",
+      "role": "craft-detail",
+      "season": "summer",
+      "public": true,
+      "description": "夏装袖口细节",
+      "sourceWidth": 1283,
+      "sourceHeight": 726,
+      "sourceFormat": "png",
+      "outputs": [
+        {
+          "path": "assets/media/products/summer/summer-sleeve-detail-480.webp",
+          "width": 480,
+          "height": 272,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/summer/summer-sleeve-detail-960.webp",
+          "width": 960,
+          "height": 543,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/summer/summer-sleeve-detail-1283.webp",
+          "width": 1283,
+          "height": 726,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "id": "summer-trouser-stripe",
+      "sourceLabel": "微信图片_20261014103708_227_5.png",
+      "role": "craft-detail",
+      "season": "summer",
+      "public": true,
+      "description": "夏装长裤侧条细节",
+      "sourceWidth": 1283,
+      "sourceHeight": 726,
+      "sourceFormat": "png",
+      "outputs": [
+        {
+          "path": "assets/media/products/summer/summer-trouser-stripe-480.webp",
+          "width": 480,
+          "height": 272,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/summer/summer-trouser-stripe-960.webp",
+          "width": 960,
+          "height": 543,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/summer/summer-trouser-stripe-1283.webp",
+          "width": 1283,
+          "height": 726,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "id": "summer-trousers",
+      "sourceLabel": "微信图片_20261014103655_214_5.png",
+      "role": "product-complete",
+      "season": "summer",
+      "public": true,
+      "description": "夏装长裤正面完整图",
+      "sourceWidth": 1080,
+      "sourceHeight": 1520,
+      "sourceFormat": "png",
+      "outputs": [
+        {
+          "path": "assets/media/products/summer/summer-trousers-480.webp",
+          "width": 480,
+          "height": 676,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/summer/summer-trousers-960.webp",
+          "width": 960,
+          "height": 1351,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/summer/summer-trousers-1080.webp",
+          "width": 1080,
+          "height": 1520,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "id": "summer-trousers-back",
+      "sourceLabel": "微信图片_20261014103654_213_5.png",
+      "role": "product-complete",
+      "season": "summer",
+      "public": true,
+      "description": "夏装长裤背面完整图",
+      "sourceWidth": 664,
+      "sourceHeight": 1293,
+      "sourceFormat": "png",
+      "outputs": [
+        {
+          "path": "assets/media/products/summer/summer-trousers-back-480.webp",
+          "width": 480,
+          "height": 935,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/summer/summer-trousers-back-664.webp",
+          "width": 664,
+          "height": 1293,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "id": "summer-trousers-side",
+      "sourceLabel": "微信图片_20261014103656_215_5.jpg",
+      "role": "product-complete",
+      "season": "summer",
+      "public": true,
+      "description": "夏装长裤侧面完整图",
+      "sourceWidth": 1080,
+      "sourceHeight": 1520,
+      "sourceFormat": "jpeg",
+      "outputs": [
+        {
+          "path": "assets/media/products/summer/summer-trousers-side-480.webp",
+          "width": 480,
+          "height": 676,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/summer/summer-trousers-side-960.webp",
+          "width": 960,
+          "height": 1351,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/summer/summer-trousers-side-1080.webp",
+          "width": 1080,
+          "height": 1520,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "id": "summer-waist-detail",
+      "sourceLabel": "微信图片_20261014103658_217_5.png",
+      "role": "craft-detail",
+      "season": "summer",
+      "public": true,
+      "description": "夏装下装腰头细节",
+      "sourceWidth": 1080,
+      "sourceHeight": 1770,
+      "sourceFormat": "png",
+      "outputs": [
+        {
+          "path": "assets/media/products/summer/summer-waist-detail-480.webp",
+          "width": 480,
+          "height": 787,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/summer/summer-waist-detail-960.webp",
+          "width": 960,
+          "height": 1573,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/summer/summer-waist-detail-1080.webp",
+          "width": 1080,
+          "height": 1770,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "id": "winter-bound-edge",
+      "sourceLabel": "微信图片_20261014103620_185_5.png",
+      "role": "craft-detail",
+      "season": "winter",
+      "public": true,
+      "description": "冲锋衣里布与包边区域",
+      "sourceWidth": 4544,
+      "sourceHeight": 2580,
+      "sourceFormat": "png",
+      "outputs": [
+        {
+          "path": "assets/media/products/winter/winter-bound-edge-480.webp",
+          "width": 480,
+          "height": 273,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/winter/winter-bound-edge-960.webp",
+          "width": 960,
+          "height": 545,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/winter/winter-bound-edge-1440.webp",
+          "width": 1440,
+          "height": 818,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "id": "winter-chest-detail",
+      "sourceLabel": "微信图片_20261014103632_190_5.png",
+      "role": "garment-chest-detail",
+      "season": "winter",
+      "public": true,
+      "description": "冲锋衣胸前校徽细节",
+      "sourceWidth": 1080,
+      "sourceHeight": 611,
+      "sourceFormat": "png",
+      "outputs": [
+        {
+          "path": "assets/media/products/winter/winter-chest-detail-480.webp",
+          "width": 480,
+          "height": 272,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/winter/winter-chest-detail-960.webp",
+          "width": 960,
+          "height": 543,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/winter/winter-chest-detail-1080.webp",
+          "width": 1080,
+          "height": 611,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "id": "winter-fabric",
+      "sourceLabel": "微信图片_20261014103613_183_5.png",
+      "role": "craft-detail",
+      "season": "winter",
+      "public": true,
+      "description": "T400 破卡面料细节",
+      "sourceWidth": 932,
+      "sourceHeight": 699,
+      "sourceFormat": "png",
+      "outputs": [
+        {
+          "path": "assets/media/products/winter/winter-fabric-480.webp",
+          "width": 480,
+          "height": 360,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/winter/winter-fabric-932.webp",
+          "width": 932,
+          "height": 699,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "id": "winter-fabric-water-repellent",
+      "sourceLabel": "微信图片_20261014103616_184_5.png",
+      "role": "craft-detail",
+      "season": "winter",
+      "public": true,
+      "description": "面料防泼水展示",
+      "sourceWidth": 4544,
+      "sourceHeight": 2580,
+      "sourceFormat": "png",
+      "outputs": [
+        {
+          "path": "assets/media/products/winter/winter-fabric-water-repellent-480.webp",
+          "width": 480,
+          "height": 273,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/winter/winter-fabric-water-repellent-960.webp",
+          "width": 960,
+          "height": 545,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/winter/winter-fabric-water-repellent-1440.webp",
+          "width": 1440,
+          "height": 818,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "id": "winter-fleece",
+      "sourceLabel": "微信图片_20261014103631_189_5.png",
+      "role": "product-complete",
+      "season": "winter",
+      "public": true,
+      "description": "可搭配抓绒内胆",
+      "sourceWidth": 4544,
+      "sourceHeight": 3454,
+      "sourceFormat": "png",
+      "outputs": [
+        {
+          "path": "assets/media/products/winter/winter-fleece-480.webp",
+          "width": 480,
+          "height": 365,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/winter/winter-fleece-960.webp",
+          "width": 960,
+          "height": 730,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/winter/winter-fleece-1600.webp",
+          "width": 1600,
+          "height": 1216,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "id": "winter-fleece-front-alt",
+      "sourceLabel": "微信图片_20261014103628_188_5.png",
+      "role": "product-complete",
+      "season": "winter",
+      "public": true,
+      "description": "抓绒内胆正面完整图（备选）",
+      "sourceWidth": 2980,
+      "sourceHeight": 2431,
+      "sourceFormat": "png",
+      "outputs": [
+        {
+          "path": "assets/media/products/winter/winter-fleece-front-alt-480.webp",
+          "width": 480,
+          "height": 392,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/winter/winter-fleece-front-alt-960.webp",
+          "width": 960,
+          "height": 783,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/winter/winter-fleece-front-alt-1600.webp",
+          "width": 1600,
+          "height": 1305,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "id": "winter-fleece-hem",
+      "sourceLabel": "微信图片_20261014103626_187_5.png",
+      "role": "craft-detail",
+      "season": "winter",
+      "public": true,
+      "description": "抓绒内胆下摆与拉链末端",
+      "sourceWidth": 4544,
+      "sourceHeight": 2580,
+      "sourceFormat": "png",
+      "outputs": [
+        {
+          "path": "assets/media/products/winter/winter-fleece-hem-480.webp",
+          "width": 480,
+          "height": 273,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/winter/winter-fleece-hem-960.webp",
+          "width": 960,
+          "height": 545,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/winter/winter-fleece-hem-1440.webp",
+          "width": 1440,
+          "height": 818,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "id": "winter-fleece-pocket",
+      "sourceLabel": "微信图片_20261014103623_186_5.png",
+      "role": "craft-detail",
+      "season": "winter",
+      "public": true,
+      "description": "抓绒内胆口袋细节",
+      "sourceWidth": 4544,
+      "sourceHeight": 2580,
+      "sourceFormat": "png",
+      "outputs": [
+        {
+          "path": "assets/media/products/winter/winter-fleece-pocket-480.webp",
+          "width": 480,
+          "height": 273,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/winter/winter-fleece-pocket-960.webp",
+          "width": 960,
+          "height": 545,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/winter/winter-fleece-pocket-1440.webp",
+          "width": 1440,
+          "height": 818,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "id": "winter-lining",
+      "sourceLabel": "微信图片_20261014103620_185_5.png",
+      "role": "craft-detail",
+      "season": "winter",
+      "public": true,
+      "description": "230T 高密度涤塔夫里布",
+      "sourceWidth": 4544,
+      "sourceHeight": 2580,
+      "sourceFormat": "png",
+      "outputs": [
+        {
+          "path": "assets/media/products/winter/winter-lining-480.webp",
+          "width": 480,
+          "height": 273,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/winter/winter-lining-960.webp",
+          "width": 960,
+          "height": 545,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/winter/winter-lining-1440.webp",
+          "width": 1440,
+          "height": 818,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "id": "winter-shell-back",
+      "sourceLabel": "微信图片_20261014103552_176_5.png",
+      "role": "product-complete",
+      "season": "winter",
+      "public": true,
+      "description": "冲锋衣背面完整图",
+      "sourceWidth": 4544,
+      "sourceHeight": 3454,
+      "sourceFormat": "png",
+      "outputs": [
+        {
+          "path": "assets/media/products/winter/winter-shell-back-480.webp",
+          "width": 480,
+          "height": 365,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/winter/winter-shell-back-960.webp",
+          "width": 960,
+          "height": 730,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/winter/winter-shell-back-1600.webp",
+          "width": 1600,
+          "height": 1216,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "id": "winter-shell-front",
+      "sourceLabel": "微信图片_20261014103611_181_5.png",
+      "role": "product-complete",
+      "season": "winter",
+      "public": true,
+      "description": "冲锋衣正面完整图",
+      "sourceWidth": 4544,
+      "sourceHeight": 3454,
+      "sourceFormat": "png",
+      "outputs": [
+        {
+          "path": "assets/media/products/winter/winter-shell-front-480.webp",
+          "width": 480,
+          "height": 365,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/winter/winter-shell-front-960.webp",
+          "width": 960,
+          "height": 730,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/winter/winter-shell-front-1600.webp",
+          "width": 1600,
+          "height": 1216,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "id": "winter-shell-front-alt",
+      "sourceLabel": "微信图片_20261014103606_179_5.png",
+      "role": "product-complete",
+      "season": "winter",
+      "public": true,
+      "description": "冲锋衣正面完整图（备选）",
+      "sourceWidth": 4544,
+      "sourceHeight": 3454,
+      "sourceFormat": "png",
+      "outputs": [
+        {
+          "path": "assets/media/products/winter/winter-shell-front-alt-480.webp",
+          "width": 480,
+          "height": 365,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/winter/winter-shell-front-alt-960.webp",
+          "width": 960,
+          "height": 730,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/winter/winter-shell-front-alt-1600.webp",
+          "width": 1600,
+          "height": 1216,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "id": "winter-shell-hood",
+      "sourceLabel": "微信图片_20261014103612_182_5.png",
+      "role": "craft-detail",
+      "season": "winter",
+      "public": true,
+      "description": "冲锋衣帽口细节",
+      "sourceWidth": 3552,
+      "sourceHeight": 2604,
+      "sourceFormat": "png",
+      "outputs": [
+        {
+          "path": "assets/media/products/winter/winter-shell-hood-480.webp",
+          "width": 480,
+          "height": 352,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/winter/winter-shell-hood-960.webp",
+          "width": 960,
+          "height": 704,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/winter/winter-shell-hood-1440.webp",
+          "width": 1440,
+          "height": 1056,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "id": "winter-shell-layered",
+      "sourceLabel": "微信图片_20261014103610_180_5.png",
+      "role": "product-complete",
+      "season": "winter",
+      "public": true,
+      "description": "冲锋衣分层穿搭图",
+      "sourceWidth": 4544,
+      "sourceHeight": 2580,
+      "sourceFormat": "png",
+      "outputs": [
+        {
+          "path": "assets/media/products/winter/winter-shell-layered-480.webp",
+          "width": 480,
+          "height": 273,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/winter/winter-shell-layered-960.webp",
+          "width": 960,
+          "height": 545,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/winter/winter-shell-layered-1600.webp",
+          "width": 1600,
+          "height": 908,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "id": "winter-shell-open",
+      "sourceLabel": "微信图片_20261014103604_178_5.png",
+      "role": "product-complete",
+      "season": "winter",
+      "public": true,
+      "description": "冲锋衣展开图",
+      "sourceWidth": 3725,
+      "sourceHeight": 3071,
+      "sourceFormat": "png",
+      "outputs": [
+        {
+          "path": "assets/media/products/winter/winter-shell-open-480.webp",
+          "width": 480,
+          "height": 396,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/winter/winter-shell-open-960.webp",
+          "width": 960,
+          "height": 791,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/winter/winter-shell-open-1600.webp",
+          "width": 1600,
+          "height": 1319,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "id": "winter-shell-side",
+      "sourceLabel": "微信图片_20261014103601_177_5.png",
+      "role": "product-complete",
+      "season": "winter",
+      "public": true,
+      "description": "冲锋衣侧面完整图",
+      "sourceWidth": 4007,
+      "sourceHeight": 2670,
+      "sourceFormat": "png",
+      "outputs": [
+        {
+          "path": "assets/media/products/winter/winter-shell-side-480.webp",
+          "width": 480,
+          "height": 320,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/winter/winter-shell-side-960.webp",
+          "width": 960,
+          "height": 640,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/winter/winter-shell-side-1600.webp",
+          "width": 1600,
+          "height": 1066,
+          "format": "webp"
+        }
+      ]
+    },
+    {
+      "id": "winter-zipper",
+      "sourceLabel": "微信图片_20261014103604_178_5.png",
+      "role": "craft-detail",
+      "season": "winter",
+      "public": true,
+      "description": "冲锋衣门襟拉链可见整体图",
+      "sourceWidth": 3725,
+      "sourceHeight": 3071,
+      "sourceFormat": "png",
+      "outputs": [
+        {
+          "path": "assets/media/products/winter/winter-zipper-480.webp",
+          "width": 480,
+          "height": 396,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/winter/winter-zipper-960.webp",
+          "width": 960,
+          "height": 791,
+          "format": "webp"
+        },
+        {
+          "path": "assets/media/products/winter/winter-zipper-1440.webp",
+          "width": 1440,
+          "height": 1187,
+          "format": "webp"
+        }
+      ]
+    }
+  ]
+}

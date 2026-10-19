@@ -6,6 +6,7 @@ on:
     paths:
       - 'index.html'
       - 'assets/**'
+      - 'products/**'
       - '.github/workflows/pages.yml'
   workflow_dispatch:
 
@@ -32,6 +33,7 @@ jobs:
           mkdir -p _site
           cp index.html _site/index.html
           cp -r assets _site/assets
+          cp -r products _site/products
           touch _site/.nojekyll
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
@@ -42,3 +44,4 @@ jobs:
       - name: Deploy website
         id: deployment
         uses: actions/deploy-pages@v4
+

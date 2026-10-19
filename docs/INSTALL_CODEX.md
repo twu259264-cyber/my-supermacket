@@ -38,3 +38,4 @@ npx skills ls -g
 
 ## ChatGPT 手机端
 这些是 Codex Skills，不是普通 ChatGPT 聊天可自动加载的插件；手机可使用 ChatGPT 原生网页制作工具、讨论品牌设计，也可以上传 SKILL.md 作为参考。需要实际开发、部署时以能读取文件并运行代码的 Codex 环境为准。
+

@@ -16,3 +16,4 @@ This is an openly attributed, **partial offline adaptation** for Codex, not the 
 
 Original UI UX Pro Max MIT-licensed reference content and licensing:
 https://github.com/nextlevelbuilder/ui-ux-pro-max-skill
+

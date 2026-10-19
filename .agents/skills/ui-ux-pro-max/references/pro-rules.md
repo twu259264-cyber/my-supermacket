@@ -115,3 +115,4 @@ Before delivering app UI code, verify every item below. Start with the process s
 - [ ] Authentication allows password managers and paste, with a non-cognitive alternative
 - [ ] Auto-rotating content has pause/stop controls and stops on focus or reduced motion
 - [ ] Failed forms retain inline field errors; multi-error forms also focus a linked error summary after submit
+

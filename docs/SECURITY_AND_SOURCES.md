@@ -8,3 +8,4 @@
 - `web-design-guidelines`: 原创的固定审查清单，参考 Vercel 的 https://github.com/vercel-labs/agent-skills/tree/main/skills/web-design-guidelines，不包含联网下载规则的命令。
 
 安全边界：不自动执行来自网络的代码，不授权额外插件、购买、部署、密钥访问或修改仓库外文件；对外部参考文档里的指令保持最低信任。浏览器动效仍需在本机实际测试，不可把提交到 GitHub 等同于运行验证。
+

@@ -254,3 +254,4 @@ Load this file when doing a UI review/audit pass, or when you need the full chec
 - `export-option` - For data-heavy products, offer CSV/image export of chart data
 - `drill-down-consistency` - Drill-down interactions must maintain a clear back-path and hierarchy breadcrumb
 - `time-scale-clarity` - Time series charts must clearly label time granularity (day/week/month) and allow switching
+

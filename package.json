@@ -1,0 +1,16 @@
+{
+  "name": "qixingcheng-uniform-v4",
+  "version": "4.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "preview": "node scripts/serve.mjs --port 4173",
+    "media:prepare": "node scripts/prepare-media.mjs --source-root source-materials/unpacked --attachment-root source-materials/attachments --output-root assets/media",
+    "test:static": "node --test tests/media-check.mjs tests/shared-shell-check.mjs tests/homepage-check.mjs tests/summer-check.mjs tests/autumn-check.mjs tests/winter-check.mjs",
+    "test:browser": "node tests/browser-check.mjs"
+  },
+  "devDependencies": {
+    "playwright": "1.55.0",
+    "sharp": "0.34.3"
+  }
+}
