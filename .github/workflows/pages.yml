@@ -7,6 +7,7 @@ on:
       - 'index.html'
       - 'assets/**'
       - 'products/**'
+      - 'lifespeak/**'
       - '.github/workflows/pages.yml'
   workflow_dispatch:
 
@@ -34,6 +35,7 @@ jobs:
           cp index.html _site/index.html
           cp -r assets _site/assets
           cp -r products _site/products
+          cp -r lifespeak _site/lifespeak
           touch _site/.nojekyll
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
